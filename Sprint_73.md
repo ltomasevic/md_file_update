@@ -1,13 +1,13 @@
 ---
-title: "Sprint 73: V1.68.6.1"
+TITLE: "Sprint 73: V1.68.6.1"
 date: 05.12.2024
 
-DETAILS:
+:
 product_name: EcoStruxure Machine Expert V2.0.3
 git_branch: releases/V2.0.3
 git_commit: abc123defg456
-git_tag: ESME_2.0.3_Sprint73
-packages: 
+git_TAG: ESME_2.0.3_Sprint73
+PACKAGES: 
     - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.3/ESME%20V2.0.3_Release/Sprint%2073/LMC_Pro2_1.68.6.1_21.9.8.1226.seco
     - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.3/ESME%20V2.0.3_Release/Sprint%2073/LMC_Pro_1.68.6.1_21.9.8.1221.seco
     - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.3/ESME%20V2.0.3_Release/Sprint%2073/LMC_Eco_1.68.6.1_21.9.8.1223.seco
@@ -20,7 +20,7 @@ versions:
     DevDesc Eco: "V1.68.6.2"
     Firmware: "V1.68.6.1"
     CoDeSys: "V3.5 SP16 Patch 6"
-    VxWorks: "7.0 21.03"
+    VxWorksz: "7.1 211.04"
     CoSeMa 4: "V1.4.008"
     CoSeMa 5: "V3.021"
     OPC UA Server: "1.7.4"
