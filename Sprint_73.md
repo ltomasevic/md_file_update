@@ -1,7 +1,8 @@
 ---
 title: "Sprint 73: V1.68.6.1"
-date: 05.12.2023
+date: 05.12.2024
 
+DETAILS:
 product_name: EcoStruxure Machine Expert V2.0.3
 git_branch: releases/V2.0.3
 git_commit: abc123defg456
