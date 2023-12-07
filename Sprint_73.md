@@ -5,7 +5,7 @@ date: 05.12.2024
 :
 product_name: EcoStruxure Machine Expert V2.0.3
 git_branch: releases/V2.0.3
-git_commit: abc123defg456
+git_commit: blabla123123
 git_TAG: ESME_2.0.3_Sprint73
 PACKAGES: 
     - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.3/ESME%20V2.0.3_Release/Sprint%2073/LMC_Pro2_1.68.6.1_21.9.8.1226.seco
