@@ -2,18 +2,18 @@
 title: "Sprint 73: V1.68.6.1"
 date: 08.12.2023
 
-product_name: EcoStruxure Machine Expert V2.0.3
-git_branch: releases/V2.0.3
-git_commit: abc123defg456
-git_tag: ESME_2.0.3_Sprint73
+product_name: EcoStruxure Machine Expert V2.0.4
+GIT_branch: releases/V2.0.4
+GIT_commit: abc123defg456
+GIT_tag: ESME_2.0.3_Sprint73
 packages: 
-    - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.3/ESME%20V2.0.3_Release/Sprint%2073/LMC_Pro2_1.68.6.1_21.9.8.1226.seco
-    - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.3/ESME%20V2.0.3_Release/Sprint%2073/LMC_Pro_1.68.6.1_21.9.8.1221.seco
-    - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.3/ESME%20V2.0.3_Release/Sprint%2073/LMC_Eco_1.68.6.1_21.9.8.1223.seco
-    - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.3/ESME%20V2.0.3_Release/Sprint%2073/AddonMulticarrier_1.66.1.1_21.9.8.1227.seco
-    - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.3/ESME%20V2.0.3_Release/Sprint%2073/SercosDevice_TM5CSLC100FS_1.66.0.2_21.07.01.257.seco
-    - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.3/ESME%20V2.0.3_Release/Sprint%2073/SercosDevice_TM5CSLC200FS_1.66.0.2_21.07.01.257.seco
-    - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.3/ESME%20V2.0.3_Release/Sprint%2073/SercosDevice_TM5NS31_1.66.0.2_21.07.01.279.seco
+    - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.4/ESME%20V2.0.4_Release/Sprint%2073/LMC_Pro2_1.68.6.1_21.9.8.1226.seco
+    - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.4/ESME%20V2.0.4_Release/Sprint%2073/LMC_Pro_1.68.6.1_21.9.8.1221.seco
+    - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.4/ESME%20V2.0.4_Release/Sprint%2073/LMC_Eco_1.68.6.1_21.9.8.1223.seco
+    - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.4/ESME%20V2.0.4_Release/Sprint%2073/AddonMulticarrier_1.66.1.1_21.9.8.1227.seco
+    - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.4/ESME%20V2.0.4_Release/Sprint%2073/SercosDevice_TM5CSLC100FS_1.66.0.2_21.07.01.257.seco
+    - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.4/ESME%20V2.0.4_Release/Sprint%2073/SercosDevice_TM5CSLC200FS_1.66.0.2_21.07.01.257.seco
+    - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.4/ESME%20V2.0.4_Release/Sprint%2073/SercosDevice_TM5NS31_1.66.0.2_21.07.01.279.seco
 versions:
     DevDesc Pro/Pro2: "V1.68.6.2"
     DevDesc Eco: "V1.68.6.2"
@@ -40,7 +40,7 @@ tickets:
         Restrictions:
     Team Internal:
         New Functions:
-            - "LMCFW-5579: Update reference to submodule ModiPac in V2.0.3"
+            - "LMCFW-5579: Update reference to submodule ModiPac in V2.0.4"
         Closed Bugs:
         Restrictions:
 ---
