@@ -15,8 +15,8 @@ packages:
     - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.3/ESME%20V2.0.3_Release/Sprint%2073/SercosDevice_TM5CSLC200FS_1.66.0.2_21.07.01.257.seco
     - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.3/ESME%20V2.0.3_Release/Sprint%2073/SercosDevice_TM5NS31_1.66.0.2_21.07.01.279.seco
 versions:
-    DevDesc Pro/Pro2: "V1.68.6.2"
-    DevDesc Eco: "V1.68.6.2"
+    DevDesc Pro/Pro2: "V1.68.6.3"
+    DevDesc Eco: "V1.68.6.3"
     Firmware: "V1.68.6.1"
     CoDeSys: "V3.5 SP16 Patch 6"
     VxWorks: "7.0 21.03"
