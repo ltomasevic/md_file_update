@@ -1,5 +1,5 @@
 ---
-title: "Sprint 75: V1.68.6.1"
+title: "Sprint 76: V1.68.6.1"
 date: 11.12.2023
 
 product_name: EcoStruxure Machine Expert V2.0.4
@@ -15,8 +15,8 @@ packages:
     - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.4/ESME%20V2.0.4_Release/Sprint%2073/SercosDevice_TM5CSLC200FS_1.66.0.2_21.07.01.257.seco
     - https://sources-svn.electric.com/svn/se-controls-releases/ESME%20V2.0.4/ESME%20V2.0.4_Release/Sprint%2073/SercosDevice_TM5NS31_1.66.0.2_21.07.01.279.seco
 versions:
-    DevDesc Pro/Pro2: "V1.68.6.4"
-    DevDesc Eco: "V1.68.6.4"
+    DevDesc Pro/Pro2: "V1.68.6.5"
+    DevDesc Eco: "V1.68.6.5"
     Firmware: "V1.68.6.1"
     CoDeSys: "V3.5 SP16 Patch 6"
     VxWorks: "7.0 21.03"
@@ -46,6 +46,6 @@ tickets:
 ---
 
 !!! note "Important!"
-    This delivery includes also all the changes from [Sprint 75 hotfix 1: V1.66.5.1](../EcoStruxure Machine Expert V2.0.1/Sprint 75.md).
+    This delivery includes also all the changes from [Sprint 76 hotfix 1: V1.66.5.1](../EcoStruxure Machine Expert V2.0.1/Sprint 76.md).
 
     On this page only tickets are listed, which were introduced from exactly this version.
